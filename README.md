@@ -1,5 +1,5 @@
 # Marketing-P&L
-Análisis de dataset de Trafilea
+Trafilea Dataset analysis
 Conclusions
 1) ROAS on July 20th in Shapermint.com is 1.013, compared to its mean of 1.136. Thhe major issue is on this day on Shapermint, which is 99% of the US Market share
 2) ROAS on July 20th in Shapermint.com, specifically on product BRA, didn´t even finish break even the revenue-spend (ROAS<1). That´s a bad sign that leads to a loss that day.
